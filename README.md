@@ -6,7 +6,7 @@ This is an exercise to design a Kubernetes-based architecture which is capable o
 
 ## Requirements
 
-Create an architecture diagram using your tool of choice (we recommend Excalidraw or Draw.io) for a Kubernetes cluster which runs an application based on the [podinfo](https://raw.githubusercontent.com/stefanprodan/podinfo) project.
+Create an architecture diagram using your tool of choice (we recommend Excalidraw or Draw.io) for a Kubernetes cluster which runs an application based on the [podinfo](https://github.com/stefanprodan/podinfo) project.
 
 The solution should be secure, highly-available, and implement horizontal scaling using a metric available in the podinfo service.
 
