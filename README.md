@@ -2,6 +2,8 @@
 
 This is an exercise to design a Kubernetes-based architecture which is capable of running highly-available microservices at scale. The requirements are deliberately loose to allow for maximum freedom with design, you decide what the application is for based on what you'd like to show. We'd like to see how you approach this scenario using any cloud native tools or applications which you feel are suitable. Please carefully consider any choices you make in your design, and be prepared to justify them.
 
+Write down any assumptions you have made.
+
 **You should aim to spend no more than 90 minutes on this task, if you run out of time, write down what you what have done next.**
 
 ## Requirements
